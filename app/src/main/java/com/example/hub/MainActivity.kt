@@ -98,7 +98,7 @@ class MainActivity : AppCompatActivity(), BookClickListener{
         imageList.add(SlideModel(R.drawable.kipchoge, "Kipchoge making history in the Ineos 1:59 Challenge."))
         imageList.add(SlideModel(R.drawable.volleyball, "Kenya men's volleyball team ranked fifth in Africa"))
         imageList.add(SlideModel(R.drawable.obiri, "Kenya to bid for 2025 World Athletics Championships."))
-        imageList.add(SlideModel(R.drawable.olunga, "Olunga next target to be seen in the EPL."))
+
 
 
         imageSlider.setImageList(imageList, ScaleTypes.CENTER_CROP)
