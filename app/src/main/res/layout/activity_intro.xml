@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".IntroActivity">
+    <ImageView
+        android:id="@+id/imageview123"
+        android:layout_width="410dp"
+        android:layout_height="400dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/athleticpicture"/>
+    <TextView
+        android:id="@+id/textView222"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Find Your New Opportunity Here\n At Digi Kenya Sports"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginTop="32dp"
+        android:layout_marginStart="32dp"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageview123"/>
+    <TextView
+        android:id="@+id/textView123"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="We're here to foster talents and innovation"
+        android:textColor="#3A3A3A"
+        android:textStyle="normal"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="16dp"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="@+id/textView222"
+        app:layout_constraintTop_toBottomOf="@+id/textView222"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/introBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-110dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:text="Let's Get Started"
+        android:textColor="@color/background"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textView123"
+        android:background="@drawable/lavender_borders"
+        android:backgroundTint="#1E88E5"
+        />
+</androidx.constraintlayout.widget.ConstraintLayout>

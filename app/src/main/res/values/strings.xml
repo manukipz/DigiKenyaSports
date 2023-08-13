@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Digi Kenya Sports</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="facebook_app_id">230524456349013</string>
+    <string name="fb_login_protocol_scheme">fb230524456349013</string>
+    <string name="facebook_client_token">56789</string>
+
+    <string name="cover">Cover</string>
+    <string name="title_place_holder">Title Place Holder</string>
+    <string name="author_placeholder">Author PlaceHolder</string>
+    <string name="description_placeholder">Description PlaceHolder</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="more_variety">More Variety</string>
+    <string name="ligon">Sign In</string>
+    <string name="sing">Sign Up</string>
+    <string name="start">GOT IT</string>
+
+    <string name="we_will_send_you_an">We will send you an</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hyderabad">Hyderabad</string>
+    <string name="charmeenar_purenehaveli">Charmeenar pureneHaveli</string>
+    <string name="choose_the">Choose the</string>
+    <string name="Zero">0</string>
+    <string name="search_bar">Search Bar</string>
+
+    <string name="home">Home</string>
+    <string name="my_account">My Account</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_rewards">My Rewards</string>
+    <string name="my_orders">My Orders</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="favourite_zone">Favourite Zone</string>
+    <string name="recipes">Recipes</string>
+    <string name="terms_and_conditions">Terms And Conditions</string>
+    <string name="share">Share</string>
+    <string name="best_offer">Best Offer</string>
+    <string name="see_all">See All</string>
+    <string name="all_category">All Category</string>
+
+    <string name="adding_list_of_item">Adding List Of Item</string>
+    <string name="cancel">Cancel</string>
+    <string name="you_adding_the_item">You Adding the Item…</string>
+    <string name="_500g">500g</string>
+    <string name="_ru">:  115</string>
+    <string name="total">Total</string>
+    <string name="_445">: 1,226</string>
+    <string name="_645">645</string>
+    <string name="ok_order_place">Ok Order Place</string>
+    <string name="kidsToy">Kids Toy</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="delete">Delete</string>
+    <string name="credit_card_information">Credit Card Information</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiration_date">Expiration Date</string>
+    <string name="cvv">CVV</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="add_to_card">Add Card</string>
+
+    <string name="track_order">Track Order</string>
+    <string name="estimated_time">ESTIMATED TIME</string>
+    <string name="_30_minutes">30 Minutes</string>
+    <string name="order_number">ORDER NUMBER</string>
+    <string name="c862787">#C862787</string>
+    <string name="order_placed">Order Placed</string>
+    <string name="received_your_order">We have received your Order</string>
+    <string name="order_confirmed">Order Confirmed</string>
+    <string name="_confirmed">Your Order has been Confirmed</string>
+    <string name="order_processed">Order Processed</string>
+    <string name="preparing_order">we are preparing your order</string>
+    <string name="ready_to_pickup">Ready To Pickup</string>
+    <string name="for_pickup">Your Order is ready for pickup</string>
+    <string name="womancolth">Women\'s Clothes</string>
+    <string name="mencolth">Men Clothes</string>
+    <string name="one_time_password">One Time Password</string>
+    <string name="on_this_mobile_number">on this mobile number.......</string>
+    <string name="type_your_phone_number">Type your Phone Number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_the_otp_code_to_verify_your_phone_number">Enter the OTP code to Verify your Phone Number</string>
+    <string name="profile_information">Profile Information</string>
+    <string name="please_set_your_name_and_an_optional_profile">Please Set your Name and an optional Profile</string>
+    <string name="type_your_name">Type your Name</string>
+    <string name="setup_profile">Setup Profile</string>
+    <string name="textview">TextView</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="work_in_android_development_and_application_ui_design">Work in Android Development and Application UI Design</string>
+    <string name="ask_your_questions_for_expert_and_get_solution_for_your_problem">Ask your questions for expert and get solution for your problem.</string>
+    <string name="answers_amp_questions"><![CDATA[Answers & Questions]]></string>
+    <string name="title">title</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="title_activity_instagram_clone">InstagramClone</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
